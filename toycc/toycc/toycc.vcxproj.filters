@@ -27,6 +27,9 @@
     <ClCompile Include="semantic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="codegen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ast.h">
@@ -42,6 +45,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="token.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="codegen.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
